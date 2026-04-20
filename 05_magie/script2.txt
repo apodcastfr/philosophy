@@ -241,9 +241,8 @@ Au cas où le destin le juge nécessaire, il déploiera l'un des effets magiques
 
 Fonction de Moyen Magique : Barrière d'énergie
 
-Autre moyen de définir une barrière magique... TODO
-
-
+Dans un réseau d'énergie, une barrière sphérique peut aussi être délimitée par 6 emplacements formant un hexagone régulier. #hexagone
+  Des symboles représentants 12 animaux symboliques sont placés à ces emplacements (2 par emplacement).
 
 - magie_avec_le_destin__systeme_03b
 
