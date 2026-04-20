@@ -1,0 +1,332 @@
+
+- magie_avec_le_destin__systeme_00a
+
+Système des lois surnaturelles de la magie avec le destin
+  Version: 0.1.0
+
+(Les lois surnaturelles de la magie avec le destin peuvent donc changer.)
+
+- magie_avec_le_destin__systeme_01a
+
+cf.
+magie_avec_le_destin_02a
+magie_avec_le_destin_03a
+magie_avec_le_destin_04a
+magie_avec_le_destin_05a
+magie_avec_le_destin_06a
+
+- magie_avec_le_destin__systeme_01b
+
+Fonction magique:
+  (Appelée aussi pouvoir magique, don surnaturel.)
+  Toute fonction magique a un symbole géométrique (ou plusieurs) qui lui est associé et qui permet de l'identifier.
+  L'utilisation d'une fonction magique a un coût énergétique devant provenir d'une Source d'énergie.
+    Ce coût énergétique dépend du destin.
+  Le bon fonctionnement et la proportion de l'efficacité de la fonction magique dépend du destin.
+
+Exemple de fonction magique: Invocation de mirmim
+  Un mirmim est une marionnette magique, un robot magique, dont les actions suivent 
+    l'intersection de deux volontés : celle du destin et celle d'un être vivant.
+    L'être vivant en question est généralement l'être vivant dont le mirmim empreinte les traits.
+  Un mirmim puise dans les sources d'énergies environnantes pour agir 
+    (y compris les personnes, en accord avec leur volonté. ex: besoin d'aide, de soutien).
+    Un mirmim lié à une personne en particulier puise par défaut dans l'énergie de cette personne.
+
+La personne ayant des dons surnaturels (surnature de Séraphin) a un tatouage surnaturel pour chacune des fonctions que le destin lui accorde.
+  On peut demander à une personne de prouver qu'elle a le rôle(s) avec le destin qu'elle prétend et les pouvoirs qu'elle prétend.
+  La personne peut choisir de présenter ses tatouages surnaturels. 
+  Si le destin le veut, il fera luir les symboles des pouvoirs accordés.
+Un séraphin royal a un tatouage surnaturel (un symbole géométrique) attestant de ce titre.
+Un séraphin royal a un tatouage surnaturel correspondant à son nom spirituel (tetragramme) décidé par le destin.
+  (un Cartouche magique particulier avec le tetragramme en Rune magiques inscrit dedans.)
+
+Le destin peut retirer des pouvoirs à une personne.
+  Le destin informera (ou pas) la personne concernée.
+  Si cette personne avait un tatouage surnaturel, il sera retiré.
+  (Un mirmim peut apparaître pour faire l'annonce devant témoin.
+    Ce mirmim peut donner un sermon à la personne, si elle se comporte de manière immorale et/ou se trouve être hors-la-loi, 
+      et/ou oeuvre sciemment contre le destin.)
+
+Un objet ou une zone peut se voir attribuer des fonctions magiques. (Moyen magique)
+  Les symboles des fonctions magiques doivent se trouver sur la surface de l'objet ou de la zone.
+
+Vecteur magique:
+  .Séraphin (surnature): une personne avec des dons surnaturels.
+  .Moyen magique
+  Les vecteurs magiques sont fonctionnels s'ils sont alimentés par une Source d'énergie auquel ils sont reliés ou en contact.
+    (Par défaut, le Séraphin est lui-même sa première source d'énergie.)
+
+Moyen magique:
+  .Objet magique: Un objet caractéristique portant un symbole magique.
+  .Zone/surface magique: Une surface, un lieu portant un symbole magique.
+
+Source d'énergie: 
+  .Quelque chose pouvant collecter de l'énergie (non surnaturelle), pour la transmettre :
+    .au reste du réseau d'énergie (surnaturel) auquel il est relié.
+    .à un moyen magique en contact.
+    Cette source doit porter le symbole de la source d'énergie (spirale avec deux flèches).
+    (ex: un arbre ou une plante faisant sa photosynthèse.)
+  .Une personne ayant la volonté d'alimenter un réseau d'énergie ou un moyen magique.
+    La personne doit être en contact avec le réseau ou le moyen magique.
+
+Charges d'énergie: 
+  .Objet de matière compatible portant le symbole de la charge d'énergie (spirale avec trois flèches).
+    Matière compatible: 
+      .verre (et verre cristal), obsidienne, 
+      .ambre, perle, nacre, 
+      .prierre précieuse ou semi-précieuse (https://fr.wikipedia.org/wiki/Liste_des_pierres_pr%C3%A9cieuses_et_semi-pr%C3%A9cieuses).
+  .Une personne ayant la volonté de s'alimenter depuis un réseau d'énergie.
+    La personne doit être en contact avec le réseau.
+  Une charge d'énergie, tant qu'elle en possède, est une source d'énergie utilisable.
+  Une charge d'énergie est en moyen de se recharger si elle est contact avec un réseau d'énergie.
+
+Réseau d'énergie:
+  L'ensemble des tracés et des sources d'énergie reliées par eux.
+    (Une source d'énergie est un réseau d'énergie minimaliste.)
+  Ce qui alimente un réseau d'énergie:
+    .une source d'énergie (évidemment) alimentant donc le reste du réseau.
+    .le sport fait par les personnes présentes dans l'environnement proche d'un réseau.
+
+Cartouche magique:
+  C'est un tracé en forme d'anneau elyptique (cf. cartouche hiéroglyphique) portant un mot composé de Runes magique.
+    Ils ont un rôle d'identification.
+  Pour certaines Fonctions magiques, plusieurs symboles sont mis en associations.
+    Les Cartouche magique servent à savoir quel symbole est associé avec quel symbole.
+
+Rune magique:
+  Symbole géométrique correspondant à une lettre de l'alphabet latin à 26 lettres (A à Z).
+  (Il y en a donc 26.)
+
+Observations:
+  .Deux charges d'énergie en contact peuvent se transmettre de l'énergie.
+  .Une source d'énergie, un tracé n'est fonctionnel que si le destin le souhaite (évidemment).
+    (Ainsi, le destin peut activer qu'une partie d'un réseau s'il le souhaite.)
+  .Un transfert d'énergie n'est possible que si le destin le souhaite (évidemment).
+
+Si on se demande si un tracé, un symbole, est fonctionnel, le destin le fera luir d'une couleur bleue.
+  Si une charge d'énergie a plus de 20% de sa capacité, la lueur de son symbole de charge sera verte.
+    (La partie verte diminue ou augmente en fonction du niveau de charge.)
+  Si une charge d'énergie a moins de 20% de sa capacité, la lueur de son symbole de charge sera violette.
+    (La partie violette diminue ou augmente en fonction du niveau de charge.)
+  Si une charge d'énergie n'a plus d'énergie, la lueur de son symbole de charge sera bleue.
+  La lueur du réseau autour d'une charge d'énergie peut indiquer aussi le niveau de charge (verte ou violette).
+  Si un symbole est en cours d'utilisation, il luira d'une couleur orange.
+
+- magie_avec_le_destin__systeme_01c
+
+Le destin a la possibilité de mettre en scène un mirmim:
+  .réalisant des tracés et des symboles magiques.
+  .réalisant des objets caractéristiques en ambre. #ExNihilo
+  .d'aider à la confection d'objets caractéristiques dans les matières compatibles.
+
+Comme le destin a la possibilité de mettre en scène un mirmim réalisant des tracés et des symboles magiques,
+  le destin peut ainsi présenter à la communauté du vivant intéressée, les symboles choisis pour chaque 
+  fonction magique du sytème de magie avec le destin.
+  (Ces symboles ont été réalisés par des personnes oeuvrant très particulièrement avec le destin (séraphin royal).)
+
+- magie_avec_le_destin__systeme_01d
+
+Tout ce que le destin fait apparaître ex nihilo, via un mirmim ou non,
+  le destin peut le faire disparaître à tout moment.
+  Cela comprend : 
+    .les artefacts des séraphins.
+    .les tracés et les symboles réalisés via un mirmim.
+    .les objets réalisés via un mirmim.
+
+- magie_avec_le_destin__systeme_02a
+
+Liste de Fonctions magiques pour Vecteur magique
+
+.Renforcement
+  .Force
+  .Résistance
+  .Rapidité
+  .Respiration
+.Vol / Lévitation
+.Grandir et Rétrécir
+.Téléportation
+.Maitrise élémentaire
+.Invocation de mirmim(s)
+.Soin
+.Résurrection
+.Tracer:
+  Le pouvoir de tracer des traits, des courbes et des symboles de Fonction magiques sur différents supports.
+
+- magie_avec_le_destin__systeme_02a2
+
+.Camouflage
+
+- magie_avec_le_destin__systeme_02b
+
+Liste de Fonctions magiques pour Séraphin
+
+.Renforcement
+  .perceptions
+  .Antialtera: anti-alteration d'état (ex: poison, paralysie, confusion)
+.Connexion au "grand je"
+.Forme animale
+.Forme semi-animale
+.Invocation d'animaux familiers
+.Invocation de territoire
+  Un signe avec les mains doit être exécuté pour activer le pouvoir de territoire.
+  Le territoire reste actif tant que le signe des mains est conservé.
+  ex: Une zone de distortion temporelle
+.Pouvoir uniques: cf. liste spécifique
+
+- magie_avec_le_destin__systeme_02c
+
+Liste des types de séraphins et leur animal symbolique associé, ainsi que les maîtrises élémentaires associées:
+
+.feu: [coq], [feu]
+.eau: [serpent], [eau]
+.air: [aigle], [air]
+.terre: [tigre], [terre]
+.lumière: [éléphant], [lumière]
+.végétal: [chat], [végétal]
+.tonnerre: [salamandre], [tonnerre]
+.métal: [hérisson], [métal]
+.vie et mort: corbeau/[phénix], [ambre, feu]
+.justice: [colombe], [eau]
+.rêve: [lièvre], [air]
+.histoire: [chien], [terre]
+.lien: [arraignée], [lumière]
+.connaissance et sagesse: [chouette], [végétal]
+
+- magie_avec_le_destin__systeme_02d
+
+Si le destin veut proposer à quelqu'un d'oeuvrer avec lui, il lui parlera.
+  Soit discrètement (expérience subjective), soit en faisant apparaître un mirmim.
+  Le destin l'invite alors à oeuvrer avec lui.
+  La personne se voit bénéficier de pouvoirs si le destin veut lui en proposer.
+    Pour que la personne puisse finalement en bénéficier, il doit montrer son acceptation ("signer" en quelque sorte) 
+       en faisant une déclaration publique devant témoin (ex: audio/vidéo enregistrée et publiée).
+
+Si le destin fait apparaître un mirmim, ce dernier peut utiliser une distortion temporelle le temps que la proposition soit traitée.
+
+- magie_avec_le_destin__systeme_02e
+
+Le destin peut potentiellement proposer aux personnes oeuvrant avec lui d'obtenir une silhouette différente 
+  (aspects: perte de poids, gain musculaire, rajeunissement...).
+  Cela peut être en plusieurs fois ou en une fois. Cela peut être sur tous les aspects ou un seul.
+  Cela se fait en accord avec la personne oeuvrant avec le destin bien sûr.
+  Ce changement de silhouette peut être permanent s'il est proposé ainsi par le destin.
+
+Un changement(s) de silhouette temporaire peut être octroyé par le destin comme un pouvoir de renforcement. #winkSaiyanTransformation
+
+- magie_avec_le_destin__systeme_03a
+
+Fonction de Moyen Magique : Barrière d'énergie
+
+Deux symboles définissent une barrière sphérique.
+  Le premier symbole définit le centre de la sphère. 
+    Il possède un Cartouche magique.
+  Le second symbole définit un point de la sphère (et serre donc à définir le rayon de la sphère). 
+    Il possède un Cartouche magique (pour savoir avec quel symbole centre il est relié).
+Cette barriere est infranchissable dans un sens et/ou dans l'autre.
+  Qui peut passer ou non, dans un sens ou dans l'autre, dépend du destin.
+
+Les symboles permettant de définir une barrière d'énergie, permettent également d'absorber 
+  l'énergie (d'explosion, cynétique, de laser, ...) des objets qu'elle bloque.
+  Cette énergie absorbée est redistribuée au réseau d'énergie auquel la barrière est reliée.
+    La barrière d'énergie devient donc aussi une source d'énergie durant cette absorption.
+    (Cela peut permettre de recharger les charges d'énergie du réseau...)
+
+Au cas où le destin le juge nécessaire, il déploiera l'un des effets magiques suivant :
+  .Une distortion temporelle qui fera que celles et ceux se trouvant à l'intérieur de la barrière 
+    verront une période de maximum 1min à l'extérieur de la barrière s'écouler en 36h au maximum à l'intérieur de la barrière.
+  .Une distortion temporelle qui fera que celles et ceux se trouvant à l'intérieur de la barrière 
+    verront une période de maximum 36h à l'extérieur de la barrière s'écouler en 1min au maximum à l'intérieur de la barrière.
+
+- magie_avec_le_destin__systeme_03a2
+
+Fonction de Moyen Magique : Barrière d'énergie
+
+Autre moyen de définir une barrière magique... TODO
+
+
+
+- magie_avec_le_destin__systeme_03b
+
+Fonction de Moyen Magique : Zone de ténèbres silencieuses
+
+Un symbole définit une zone sphérique dans laquelle il est impossible pour les personnes de voir et/ou d'entendre.
+  Les effets de cette zone sont sans effets avec certaines personnes oeuvrant avec le destin.
+  Le symbole définit le centre de la zone. Pour différentes tailles -> différents symboles.
+
+- magie_avec_le_destin__systeme_03c
+
+Fonction de Moyen Magique : Rayon solaire
+
+  Un objet caractéristique portant le symbole du "rayon solaire", 
+    pourra projeter un rayon laser au potentiel offensif et destructeur sur une certaine distance.
+    (Un tel objet en haut d'une tour, permet de réaliser une tour solaire.)
+  Objet caractéristique: objet sphérique ou polyhèdre de platon possédant un minimum de matière(s) compatible(s).
+
+- magie_avec_le_destin__systeme_03d
+
+Fonction de Moyen Magique : Zone de refuge
+
+  Un symbole définit une zone où un (ou plusieurs) mirmim peuvent être mis en scène par le destin pour soigner, 
+    voire pour ressuciter, des personnes.
+  Le symbole définit le centre de la zone. Pour différentes tailles -> différents symboles.
+
+- magie_avec_le_destin__systeme_03e
+
+Fonction de Moyen Magique : Point de resurrection du phénix
+
+  Un symbole définit une place où je peux ressuciter (en accord avec le destin) et sans intervention d'un être vivant. #AutoResurex
+  Symbole: Les 6 pétales de feu avec au centre le symbole de la vie et de la mort.
+  (rappel: Comme tout symbole, il a besoin d'une source d'énergie pour fonctionner.)
+
+- magie_avec_le_destin__systeme_04a
+
+Moyen magique - Tablette de communication
+
+Un objet magique permettant d'envoyer et recevoir des messages écrits vers et depuis une autre tablette de communication.
+  Une tablette avec un symbole de communication, et un Cartouche unique par tablette.
+  Ce Cartouche et surtout son inscription permet d'identifier le destinataire et l'expéditeur d'un message.
+  Le design de l'interface de cette tablette est similaire à celle de WhatsApp.
+    Il y a donc la possibilité de créer des groupes.
+    Il y a un groupe par défaut qui est disponible: "ALL", désignant toutes les tablettes de communication.
+
+- magie_avec_le_destin__systeme_04b
+
+Moyen magique - Zone de téléportation
+
+moyen magique de transport.
+  Une zone délimitée par un polygone.
+  A l'intérieur du polygone:
+    .le symbole de la téléportation relié au polygone.
+    .un Cartouche relié au polygone avec une inscription unique.
+  A l'extérieur du polygone:
+    .Un cadre de contrôle (dessiné sur une colonne par exemple) relié au polygone.
+  Le cadre de contrôle possède un Cartouche de destination vide.
+    Grâce à l'interface du cadre de contrôle on édite la destination, puis on valide ou annule la requête de téléportation.
+  Une fois la requête de téléportation validée, les sujets de téléportation sont téléportés peu de temps après.
+    Le Cartouche de destination est alors effacé.
+  Un sujet de téléportation désigne l'un des éléments suivants, en contact avec le polygone 
+    ou l'un des tracés à l'intérieur du polygone relié au polygone:
+    .Un être vivant d'au moins 1 cm³.
+    .Un objet d'au moins 1 cm³.
+    .Un objet ou un être vivant porté par un sujet de téléportation.
+  Seuls les sujets de téléportation pour lesquels il y a assez d'énergie sont téléportés.
+  De potentiels sujets de téléportation ne sont pas téléportés, s'ils sont en connexion forte avec un sujet non téléportable.
+    (En gros, on évite de "couper les choses".)
+    Cela est à l'appréciation du destin.
+  Evidemment, le destin ne téléporte que ce qu'il accepte de téléporter.
+  Une téléportation est réalisée s'il y a la place et l'autorisation d'accéder à la destination de téléportation.
+  Le cadre de contrôle peut donner la possibilité d'autoriser ou d'interdire la téléportation entrante ou sortante depuis ou vers une destination.
+
+Observations:
+  .gaz et microbes dans l'air ne sont pas téléportés.
+  .microbes portés par un être vivant sont téléportés.
+
+- magie_avec_le_destin__fantome_01
+
+Le destin peut donner la possibilité à un fantôme (une personne dans le monde des morts) d'apparaître dans le monde des vivants. 
+  En général, la durée d'apparition est jusqu'à 90s.
+  Mais comme rien n'empêche le destin d'accorder plusieurs périodes de 90s l'une derrière l'autre...
+
+Le destin peut donner la possibilité à un fantôme (une personne dans le monde des morts) de faire de légère interactions sonores 
+  dans le monde des vivants (tic, tictic).
+  (Une personne peut prendre le risque d'interpréter ces tic et ces tictic.)
